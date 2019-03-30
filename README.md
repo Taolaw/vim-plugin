@@ -1,2 +1,2 @@
 # vim-plugin
-the option for vim
+The option for vim,detail in the .vimrc

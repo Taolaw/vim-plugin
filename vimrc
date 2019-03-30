@@ -28,8 +28,8 @@ set expandtab
 "根据文件类型设置缩进格式
 au FileType html,vim,javascript setl shiftwidth=2
 au FileType html,vim,javascript setl tabstop=2
-au FileType java,php,pathon setl shiftwidth=4
-au FileType java,php,pathon setl tabstop=4
+au FileType java,php,python setl shiftwidth=4
+au FileType java,php,python setl tabstop=4
 "启动vim时不要自动折叠代码
 set foldlevel=100
 "自动对齐
